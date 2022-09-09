@@ -20,12 +20,19 @@
 
 ## Pytorch Material
 
+* Raschka, Sebastian, et al. [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python.]((https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)) Packt Publishing Ltd, 2022.
+  * The [GitHub repository](https://github.com/rasbt/machine-learning-book) contains code examples written in Jupyter Notebooks
+  * You can read the book under the [EGN4912 UF Course Reserves](https://ares.uflib.ufl.edu/ares/ares.dll?Action=10&Form=60&Value=24221).
+
 ## Modules
 
 ### Recurrent Neural Networks
 
 ### Convolutional Neural Networks
 
+# Library Resouces
+
+Textbooks have been reserved and available in electronic version under the [UF Library Course Reserves](https://ares.uflib.ufl.edu/ares/ares.dll?Action=10&Form=60&Value=24221).
 
 # Supporting Literature/Bib
 
