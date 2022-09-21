@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Description/Concept
-![RNNCNN System level Architecture]("C:\Users\patri\git\Multi-Modal Object Detection\Multi-Modal-Object-Detection\figures\RNN_CNN_SystemLevelDiagram.png")
+![RNNCNN System level Architecture](C:\Users\patri\git\Multi-Modal Object Detection\Multi-Modal-Object-Detection\figures\RNN_CNN_SystemLevelDiagram.png)
 ### Model Architectures
 
 ## Prospective applications 
