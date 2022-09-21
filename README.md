@@ -43,7 +43,7 @@ Textbooks have been reserved and available in electronic version under the [UF L
 
 * [ORBIT: A Real World Few-shot Dataset for Teachable Object Recognition](https://reader.elsevier.com/reader/sd/pii/S2666990021000148)
 
-* [Link to ORBIT DATASET] (https://github.com/microsoft/ORBIT-Dataset)
+* [Link to ORBIT DATASET](https://github.com/microsoft/ORBIT-Dataset)
 
 * [OBJECT DETECTION SYSTEM FOR THE BLIND WITH VOICEGUIDANCE](https://www.ijeast.com/papers/67-70,Tesma602,IJEAST.pdf)
 
