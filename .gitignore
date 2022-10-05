@@ -1,0 +1,15 @@
+# Repo-specific directories
+Files
+
+*.pt
+*.pth
+*.ckpt
+
+# Project directories
+.idea
+.vscode
+
+# Python byproducts
+**/__pycache__
+*.egg-info
+build/
