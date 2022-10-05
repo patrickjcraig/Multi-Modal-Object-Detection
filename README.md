@@ -1,4 +1,5 @@
 # Project Overview
+## Tutorial
 
 ## Description/Concept
 
@@ -42,3 +43,4 @@ Textbooks have been reserved and available in electronic version under the [UF L
 * [IoT Enabled Automated Object Recognition For the Visually Impaired](https://arxiv.org/abs/2104.03841)
 * [OBJECT DETECTION SYSTEM FOR THE BLIND WITH VOICEGUIDANCE](https://www.ijeast.com/papers/67-70,Tesma602,IJEAST.pdf)
 * [Efficient Multi-Object Detection and Smart Navigation Using Artificial Intelligence for Visually Impaired People](https://www.mdpi.com/1099-4300/22/9/941/htm)
+* [Fast R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410526)
